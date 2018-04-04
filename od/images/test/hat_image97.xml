@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>hat_image97.JPG</filename>
+	<path>/home/leeseoho/Tensorflow/od/images/test/hat_image97.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>664</width>
+		<height>488</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>122</ymin>
+			<xmax>233</xmax>
+			<ymax>211</ymax>
+		</bndbox>
+	</object>
+</annotation>

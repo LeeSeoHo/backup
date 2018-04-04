@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>hat_image27.JPG</filename>
+	<path>/home/leeseoho/Tensorflow/od/images/train/hat_image27.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>471</width>
+		<height>332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>64</xmin>
+			<ymin>84</ymin>
+			<xmax>174</xmax>
+			<ymax>145</ymax>
+		</bndbox>
+	</object>
+</annotation>
